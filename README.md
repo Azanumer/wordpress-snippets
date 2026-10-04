@@ -18,6 +18,7 @@ Copy-paste PHP snippets for WordPress — security, speed, and customization wit
 | `snippets/02-performance.php` | Disable emojis, embeds & bloat; limit Heartbeat; clean up `wp_head` |
 | `snippets/03-customization.php` | Custom excerpt length, login page logo link, remove "Howdy", custom footer text |
 | `snippets/04-woocommerce.php` | Products per page, change sale badge text, hide SKU, redirect after add-to-cart |
+| `snippets/05-mail-logger.php` | Log every outgoing wp_mail() to a DB table + Tools → Mail Log viewer (mu-plugin style) |
 
 ## Notes
 
